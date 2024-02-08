@@ -1,0 +1,14 @@
+body{
+    background-color:bisque;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+form{
+   text-align: center;
+}
+button{
+    color:black;
+    background-color:chartreuse;
+}
